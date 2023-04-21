@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Thzin</h1>
-<h3 align="center">Um desenvolvedor back-end que sou junior.</h3>
+<h3 align="center">Um desenvolvedor back-end junior.</h3>
 
 ### Skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
