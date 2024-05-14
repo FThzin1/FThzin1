@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">✨ Olá sou .thzin, desde sempre sou apaixonado por tecnologia. Sou um Desenvolvedor Back-End e Front End sempre dou meu melhor.
+<p align="left">Back end, front end.
 </p>
 
 ###
