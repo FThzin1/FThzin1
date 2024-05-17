@@ -1,6 +1,6 @@
 # Olá 👋
 
-**Olá me chamo Arthur, 15** <br/>
+**Olá me chamo Arthur, tenho 15 anos** <br/>
 Desde sempre fui apaixonado por tecnologia. Comecei a programar aos 12 anos, criando projetos simples e práticos. Desde então, aproveito todas as oportunidades para aprender mais e me aprofundar em cada nova descoberta que me interessa.
 
 ## Stacks:
