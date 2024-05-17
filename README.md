@@ -1,27 +1,22 @@
-<h1 align="left">.thzin</h1>
+# Olá 👋
 
-<h2 align="left">Sobre Mim</h2>
-
-###
-
-<p align="left">Back end, front end.
-</p>
-
-###
+**Olá me chamo Arthur, 15** <br/>
+Desde sempre fui apaixonado por tecnologia. Comecei a programar aos 12 anos, criando projetos simples e práticos. Desde então, aproveito todas as oportunidades para aprender mais e me aprofundar em cada nova descoberta que me interessa.
 
 ## Stacks:
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 25px">
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/c.svg" width="55" height="55" />
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/c-plusplus.svg" width="55" height="55" />
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/c-sharp.svg" width="55" height="55" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/javascript.svg" width="55" height="55" />
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/typescript-icon.svg" width="55" height="55" />
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/nodejs-icon.svg" width="55" height="55" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/python.svg" width="55" height="55" />
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/lua.svg" width="55" height="55" />
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/mysql.svg" width="55" height="55" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/svelte.svg" width="55" height="55" />
 </div>
-
-###
