@@ -19,4 +19,5 @@ Desde sempre fui apaixonado por tecnologia. Comecei a programar aos 12 anos, cri
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/mysql.svg" width="55" height="55" />
   <br/>
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/svelte.svg" width="55" height="55" />
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/react.svg" width="55" height="55" />
 </div>
