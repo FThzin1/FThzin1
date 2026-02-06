@@ -1,7 +1,7 @@
 # Olá👋
 
-**Gabriel Xisto, Brasil** <br/>
-Fullstack com mais de 8 anos de experiência, apaixonado por tecnologia e soluções práticas. Atualmente sou Manager na OneSource, combinando desenvolvimento e liderança em projetos que desafiam e inspiram.
+**Thzin, Brasil** <br/>
+Fullstack com mais de 5 anos de experiência, apaixonado por tecnologia e soluções práticas. 
 
 ## 🛠 &nbsp;Tecnologias e Ferramentas
 
