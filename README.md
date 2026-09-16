@@ -1,7 +1,7 @@
 # Olá👋
 
 **Thzin, Brasil** <br/>
-Fullstack com mais de 5 anos de experiência, apaixonado por tecnologia e soluções práticas. 
+Fullstack com mais de 6 anos de experiência, apaixonado por tecnologia e soluções práticas. 
 
 ## 🛠 &nbsp;Tecnologias e Ferramentas
 
